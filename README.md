@@ -28,12 +28,7 @@
     </section>
     </body>
     <html>
-:root {
---cor-de-fundo: #EBECEE;
---branco: #FFFFFF;
-}.cabeçalho {
-background-color: var(--branco);
-}<header class=”cabeçalho”>
+<header class=”cabeçalho”>
 <div class=”container”>
 <span class=”cabeçalho__menu-hamburguer”></span>
 <img src=”img/Logo.svg” alt=”Logo da Alurabooks”>

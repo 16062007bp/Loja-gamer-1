@@ -38,15 +38,7 @@
 <a href=”#”><img src=”img/Compras.svg” alt=”Carrinho de compras”></a>
 <a href=”#”><img src=”img/Usuario.svg” alt=”Meu perfil”></a>
 </div>
-</header>.cabeçalho {
-background-color: var(--branco);
-display: flex;
-justify-content: space-between;
-align-items: center;
-}.container {
-display: flex;
-align-items: center;
-}<header class=”cabeçalho”>
+</header><header class=”cabeçalho”>
 <div class=”container”>
 <span class=”cabeçalho__menu-hamburguer container__imagem”></span>
 <img src=”img/Logo.svg” alt=”Logo da Alurabooks” class=”container__imagem”>
